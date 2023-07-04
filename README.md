@@ -2,7 +2,7 @@
 
 ### **Descripción del proyecto:**
   - Temática:🔌🧬 Sensorización biomédica, bioinstrumentación, electrónica digital y analógica, fisiología humana.
-  - Software empleados: Arduino.
+  - Software empleado: Arduino.
 
 ### **Reconocimientos y premios:**
   - Proyecto ganador de la categoría de Ingeniería en los premios PBS de la Universidad Europea, una iniciativa que premia los mejores proyectos en cada una de las áreas de la escuela STEAM. 
