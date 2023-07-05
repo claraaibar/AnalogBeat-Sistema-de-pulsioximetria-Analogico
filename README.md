@@ -1,7 +1,7 @@
 # AnalogBeat - Sistema de pulsioximetría analógico
 
-### **Descripción del proyecto:**
-  - Temática:🔌🧬 Sensorización biomédica, bioinstrumentación, electrónica digital y analógica, fisiología humana.
+### **Descripción del proyecto: 🔌🧬**
+  - Temática: Sensorización biomédica, bioinstrumentación, electrónica digital y analógica, fisiología humana.
   - Software empleado: Arduino.
 
 ### **Reconocimientos y premios:**
